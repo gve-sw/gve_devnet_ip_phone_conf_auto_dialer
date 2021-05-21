@@ -1,0 +1,13 @@
+Consulted documentation:
+
+Cisco Unified IP Phone Services Application Development Notes, Release 7.0(1)
+https://www.cisco.com/c/en/us/td/docs/voice_ip_comm/cuipph/all_models/xsi/7_0/english/programming/guide/70xsi/xsi70uri.html
+
+Beautiful Soup Documentation
+https://www.crummy.com/software/BeautifulSoup/bs4/doc/
+
+Cache-Control
+https://cachecontrol.readthedocs.io/en/latest/
+
+Pragma
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Pragma
