@@ -1,4 +1,5 @@
-# GVE_DevNet_COUNTY_OF_WESTCHESTER_IPphoneConfAutoDialer
+# GVE DevNet IP Phone Conf Auto Dialer 
+
 Script that instructs an IP phone to dial a pre-established conference. The phone reconnects if either the remote or local party hangs up.
 
 
